@@ -1,3 +1,4 @@
+# Pics
 <h3>How to run:</h3>
 <ol>
   <li>Clone the repo on your computer</li>
