@@ -5,7 +5,7 @@
   <li>Run <code>npm start</code> in the same directory</li>
 </ol>
 <h3>Check it out:</h3>
-<ol>
-  <li>Link</li>
-</ol>
+<ul>
+  <li>https://takikhasan.github.io/pics/</li>
+</ul>
   
